@@ -1,0 +1,3 @@
+C:/Users/XaveF/Documents/Practices/phonebookPractice/cmake-build-practicephonebook/CMakeFiles/phonebook.dir
+C:/Users/XaveF/Documents/Practices/phonebookPractice/cmake-build-practicephonebook/CMakeFiles/edit_cache.dir
+C:/Users/XaveF/Documents/Practices/phonebookPractice/cmake-build-practicephonebook/CMakeFiles/rebuild_cache.dir

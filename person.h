@@ -31,6 +31,19 @@ public:
     istream& Read(istream& input);
     ostream& Write(ostream& output)const;
 };
-
+/*
+ * constructor(name, phone, level)
+ * copy constructor
+ * const copy assignment operator
+ * destructo
+ * tostring
+ * tojosn
+ * getname
+ * getphone
+ * getlevel
+ * bool equal (class)
+ * istream read
+ * ostream write
+ */
 
 #endif //PHONEBOOK_PERSON_H
